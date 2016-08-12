@@ -1,5 +1,6 @@
 div{
-	display: block; 
+	display: inline-block;
+	width: 300px; 
 }
 
 h1 {
